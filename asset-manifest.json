@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/calcGPT/static/js/main.1adb3c8b.js",
+    "index.html": "/calcGPT/index.html",
+    "main.1adb3c8b.js.map": "/calcGPT/static/js/main.1adb3c8b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1adb3c8b.js"
+  ]
+}
